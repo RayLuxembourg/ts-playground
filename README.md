@@ -1,6 +1,6 @@
 # TS-Playground
 
-this is a node.js playground project with preconfigured options to wrtite typescript with persistant debugging.
+this is a node.js playground project with preconfigured options to write typescript with persistent debugging.
 
 ---
 
